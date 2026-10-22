@@ -13,6 +13,23 @@
 
 ---
 
+## 📄 Research
+
+This repo holds the notebooks behind my applied-ML research on credit-card rewards, done as a research assistant at Symbiosis Institute of Technology.
+
+| R² · reward model | Personalisation gain | Published |
+|:---:|:---:|:---:|
+| **0.99** | **62.5%** | International Journal of Computational Intelligence Systems, 2025 |
+
+<sub>Figures as reported in the paper. See the data note below: the notebooks here run on synthetic data.</sub>
+
+Related publications:
+
+- *Analyzing and Rewarding Credit Card Spending Habits in India: A Machine Learning Approach*
+- *Credit Card Hyperpersonalization and Retention Strategies Using AI*
+
+---
+
 ## 🔍 What's inside
 
 Two notebooks, from first exploration to the full pipeline.
