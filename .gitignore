@@ -1,0 +1,10 @@
+# Notebooks
+.ipynb_checkpoints/
+
+# Data and secrets
+*.csv
+.env
+
+# OS
+.DS_Store
+Thumbs.db
