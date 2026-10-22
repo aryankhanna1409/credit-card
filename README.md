@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💳 credit-card
+<img src="assets/banner.svg" width="100%" alt="credit-card: Spending-habit segmentation and reward modelling" />
 
 **Analysing credit-card spending habits in India: customer segmentation and reward-point modelling.**
 
