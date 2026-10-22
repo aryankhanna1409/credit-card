@@ -17,11 +17,7 @@
 
 This repo holds the notebooks behind my applied-ML research on credit-card rewards, done as a research assistant at Symbiosis Institute of Technology.
 
-| R² · reward model | Personalisation gain | Published |
-|:---:|:---:|:---:|
-| **0.99** | **62.5%** | International Journal of Computational Intelligence Systems, 2025 |
-
-<sub>Figures as reported in the paper. See the data note below: the notebooks here run on synthetic data.</sub>
+The published system delivered **62.5% better reward personalisation**, as reported in the *International Journal of Computational Intelligence Systems* (2025). The notebooks here run on synthetic data; see the note below.
 
 Related publications:
 
