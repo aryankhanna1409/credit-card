@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="credit-card: Spending-habit segmentation and reward modelling" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" /><img src="assets/banner.svg" width="100%" alt="credit-card: Spending-habit segmentation and reward modelling" /></picture>
 
 **Analysing credit-card spending habits in India: customer segmentation and reward-point modelling.**
 
@@ -68,7 +68,7 @@ The notebooks were written for Google Colab and read data from paths such as `/c
 
 <div align="center">
 
-<img src="assets/footer.svg" width="100%" alt="Off the menu: from the archive" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" /><img src="assets/footer.svg" width="100%" alt="Off the menu: from the archive" /></picture>
 
 Applied machine learning on Indian credit-card spending
 
