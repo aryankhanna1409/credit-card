@@ -4,16 +4,16 @@
 
 **Analysing credit-card spending habits in India: customer segmentation and reward-point modelling.**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-clustering-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-regression-189AB4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3b2416?style=flat-square&logo=python&logoColor=efdfc4)
+![Jupyter](https://img.shields.io/badge/Jupyter-notebooks-8a5a22?style=flat-square&logo=jupyter&labelColor=1d120b&logoColor=efdfc4)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-clustering-8a5a22?style=flat-square&logo=scikitlearn&labelColor=1d120b&logoColor=efdfc4)
+![XGBoost](https://img.shields.io/badge/XGBoost-regression-8a5a22?style=flat-square&labelColor=1d120b)
 
 </div>
 
 ---
 
-## 📄 Research
+## Research
 
 This repo holds the notebooks behind my applied-ML research on credit-card rewards, done as a research assistant at Symbiosis Institute of Technology.
 
@@ -26,7 +26,7 @@ Related publications:
 
 ---
 
-## 🔍 What's inside
+## What's inside
 
 Two notebooks, from first exploration to the full pipeline.
 
@@ -52,7 +52,7 @@ Two notebooks, from first exploration to the full pipeline.
 
 ---
 
-## 🚀 Run it
+## Run it
 
 ```bash
 git clone https://github.com/aryankhanna1409/credit-card.git
@@ -68,6 +68,10 @@ The notebooks were written for Google Colab and read data from paths such as `/c
 
 <div align="center">
 
+<img src="assets/footer.svg" width="100%" alt="Off the menu: from the archive" />
+
 Applied machine learning on Indian credit-card spending
+
+<sub>Part of <a href="https://github.com/aryankhanna1409">Aryan Khanna's portfolio</a>: one loop, five pours, from robots to AI systems.</sub>
 
 </div>
